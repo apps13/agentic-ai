@@ -1,0 +1,14 @@
+# Ignore environment variable files
+.env
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# VSCode & other IDEs
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
