@@ -1,0 +1,20 @@
+Question: What is 15 times 4?
+
+Thought: I need to multiply 15 by 4.
+Action: multiply[15 4]
+Observation: 60
+Answer: 60
+
+Question: What is the product of 15 and 4?
+
+Thought: I need to multiply 15 by 4.
+Action: multiply[15 4]
+Observation: 60
+Answer: 60
+
+Question: Hi! Can you tell me what 15x4 is?
+
+Thought: I need to multiply 15 by 4.
+Action: multiply[15 4]
+Observation: 60
+Answer: 60
