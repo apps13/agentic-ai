@@ -1,6 +1,6 @@
 # Agentic AI
 
-This repo documents my learning and experiments in agentic AI, LLMs, APIs, and multimodal agents.
+This repo documents scratch experiments in agentic AI, LLMs, APIs, and multimodal agents.
 
 ## Contents
 
